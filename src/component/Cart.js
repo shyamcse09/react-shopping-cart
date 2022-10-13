@@ -13,7 +13,7 @@ const Cart = () => {
   },[cart]);
 
   return (
-    <div className='home'>
+    <div className='home page-content'>
       <div className='productContainer'>
         <ListGroup>
           {
