@@ -1,4 +1,4 @@
-# React Shopping Cart Project
+# React Shopping Cart Project Testing
 
 In the project directory, you can run:
 
