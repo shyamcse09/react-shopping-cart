@@ -8,7 +8,6 @@ To install all the project dependency and get the setup ready
 ### `npm install` 
 
 
-
 To start the local server run 
 
 ### `npm start`
